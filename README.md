@@ -8,6 +8,6 @@ Fundamentals I explore are (associated notebooks listed as sub-bullets!):
   - 
 - Exploratory Data Analysis (EDA)
   - 
-  -  Food Orders New Delhi | [Notebook](https://github.com/AndyWongData/60-Minute-Missions/blob/main/EDA/FoodOrder.ipynb) | [Dataset](https://www.kaggle.com/datasets/shahbazaliml/food-orders-new-delhi)
+  -  New Delhi Food Orders | [Notebook](https://github.com/AndyWongData/60-Minute-Missions/blob/main/EDA/FoodOrder.ipynb) | [Dataset](https://www.kaggle.com/datasets/shahbazaliml/food-orders-new-delhi)
 - ML Model Exploration + Feature Engineering
   - 
